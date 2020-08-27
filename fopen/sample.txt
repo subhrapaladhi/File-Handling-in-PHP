@@ -1,0 +1,5 @@
+This is a sample txt file. 
+We are opening the file using fopen() function.
+fread() is used to read the contents.
+filesize is used to get file size.
+fclose is used to close the file.

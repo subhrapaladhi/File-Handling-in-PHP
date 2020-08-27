@@ -1,0 +1,2 @@
+This is a sample txt file. 
+We are reading its content in PHP using readfile() function.
